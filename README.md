@@ -1,0 +1,7 @@
+# Boston-Property-Assessment
+Story telling using Boston Housing dataset
+The main intention behind this project is to answer the question raised by a bunch of people I met in Boston. They were planning to make investments in properties in Boston and were willing to know the prices in different areas based on numerous parameters such as built year, remodeling year, the number of bedrooms, etc. For this reason, I planned to work on the authentic data provided on the Boston government website for the year 2019. The housing dataset has many variables that make it interesting to figure out which factors affect the assessed price of the houses. Interestingly all the variables are important and taken into consideration while deciding the prices of the Condominium units. However, there exist some variables that are more important than the other variables. Hence, I want to find out the answers to the following questions to dive deeper into the dataset. The main business questions concerning the group of people are as follows:
+1) How total assessed value of the property can be predicted?
+2) What has more impact, build year or remodelling year?
+3) Which parameters are capable of impacting total assessed value?
+Direct link to the dataset- https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/695a8596-5458-442b-a017-7cd72471aade/download/fy19fullpropassess.csv. The detailed explanation included in python notebook.
